@@ -1,3 +1,3 @@
 return{
-    Testfile = "https://pastebin.com/LJqsKDhB"
+    Testfile = "https://raw.githubusercontent.com/decommandpro/Clipper/main/Testfile.lua",
 }
